@@ -50,9 +50,9 @@ This IBM Cloud Mobile Starter will showcase on how to use the AppLaunch Service.
 
 | Maintainer | Email | Branch | Register |
 | ---------- | ----- | ------ | -------- |
-| Vinod Appajanna | vinod_app@in.ibm.com | development | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=development)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
-| Vinod Appajanna | vinod_app@in.ibm.com | stage1 | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=stage1)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
-| Vinod Appajanna | vinod_app@in.ibm.com | master | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=master)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
+| Norton Stanley | nostanle@in.ibm.com | development | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=development)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
+| Norton Stanley | nostanle@in.ibm.com | stage1 | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=stage1)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
+| Norton Stanley | nostanle@in.ibm.com | master | [![Build Status](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project.svg?token=a6sHBDbzp6oqFUmM95TF&branch=master)](https://travis.ibm.com/BluemixMobileStarters/empty-starter-project) |
 
 ### License
 This package contains code licensed under the Apache License, Version 2.0 (the "License"). You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 and may also view the License in the LICENSE file within this package.
