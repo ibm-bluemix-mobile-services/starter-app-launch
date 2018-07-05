@@ -1,5 +1,5 @@
 <img
-src="https://raw.githubusercontent.com/sam-almighty/bms-applaunch-samples/master/AcmeBank/images/ApplaunchIcon.png" alt="App Launch Logo" width="200px"/>
+src="https://github.com/ibm-bluemix-mobile-services/starter-app-launch/blob/master/images/ApplaunchIcon.png" alt="App Launch Logo" width="200px"/>
 
 ## AppLaunch
 IBM Cloud AppLaunch Starter
